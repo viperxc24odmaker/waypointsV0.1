@@ -1,0 +1,6 @@
+{
+  "key.category.makeforgewaypoints.main": "MakeForge Waypoints",
+  "key.makeforgewaypoints.add": "Add Waypoint (at me)",
+  "key.makeforgewaypoints.remove": "Remove Nearest Waypoint",
+  "key.makeforgewaypoints.toggle": "Toggle Waypoint HUD"
+}
